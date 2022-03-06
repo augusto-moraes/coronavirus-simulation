@@ -1,5 +1,5 @@
 # coronavirus-simulation
-This model tests the effectiveness of mass vaccination of a population against a deadly virus. 
+This model tests the effectiveness of mass vaccination of a population against a deadly & contagious virus. 
 
 ## Run the simulation
 - Use `javac Simulation.java` to compile it.
